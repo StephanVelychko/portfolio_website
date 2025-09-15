@@ -1,10 +1,21 @@
 * {
-  color: white;
   margin: 0px;
   padding: 0px;
 }
 
 body {
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('https://www.solidbackgrounds.com/images/7680x4320/7680x4320-forest-green-traditional-solid-color-background.jpg') repeat;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background: rgb(174, 214, 207);
+}
+
+header {
+  background: rgb(100, 127, 188);
+  height: 90px;
+}
+
+header h1 {
+  padding-top: 10px;
+  font-size: 300%;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-align: center;
 }
